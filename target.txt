@@ -1,0 +1,11 @@
+#rank,values,count
+1,optimism,12
+2,honesty,11
+2,creativity,11
+3,calm,10
+3,flexibility,10
+3,determination,10
+4,simplicity,9
+4,understanding,9
+4,respect,9
+4,curiosity,9
